@@ -22,13 +22,9 @@ Bachelor's degree in software engineering with approaches to programming using l
 
 ### 🏆 Projects:
 
-**⭐ Selenium Automated Tests on a Web Platform**
-
-Documentation and Implementation of automated Java tests, using Selenium IDE and JUnit.
-
 **⭐ Development of a Manga Reader website**
 
-Development of a web application with PHP, JS, HTML and CSS for a federal agent.
+Development of a web application with PHP, JS, HTML and CSS for a Instituto Federal Farroupilha (Campus Uruguaiana) in Rio Grande do Sul, Brazil.
 
 ### ⚡GitHub Stats:
 
