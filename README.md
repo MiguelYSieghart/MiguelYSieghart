@@ -12,7 +12,7 @@ I'm Miguel Ângelo Bastos Muniz, a Full-Stack Developer. I'm currently studying 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-31A8FF.svg?style=for-the-badge&logo=pycharm&logoColor=white) ![PhpStorm](https://img.shields.io/badge/PhpStorm-8E44AD.svg?style=for-the-badge&logo=phpstorm&logoColor=white) ![RustRover](https://img.shields.io/badge/RustRover-DEA584.svg?style=for-the-badge&logo=rust&logoColor=white)  
 
 ### 📖 Academic Record:
-📅 **2020 - 2022 Instituto Federal Farroupilha (Campus Uruguaiana) | Internet IT Technician**
+📅 **2020 - 2022 Instituto Federal Farroupilha (Campus Uruguaiana) | IT Technician**
 
 Technician degree in Web development with approaches to programming using languages such as: PHP and JavaScript. Learned HTML5, CSS3 and MySQL. Here i learned the pillars of UI/UX, the logic behind the networking system, game development and requirement engineering.
 
