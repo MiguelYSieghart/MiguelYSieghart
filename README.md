@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Miguel Ângelo Bastos Muniz, a Full-Stack Developer. I'm currently studying software engineering at Universidade Federal do Pampa in Rio Grande do Sul, Brazil. I have knowledge of SvelteKit, PHP, Java, JavaScript, TypeScript, Node.js, React.js, MySQL and Python. I graduated in Internet IT Technician at Instituto Federal Farroupilha (Campus Uruguaiana) in Rio Grande do Sul, Brazil
+I'm Miguel Ângelo Bastos Muniz, a Full-Stack Developer. I'm currently studying software engineering at Universidade Federal do Pampa in Rio Grande do Sul, Brazil. I have knowledge of SvelteKit, PHP, Java, JavaScript, TypeScript, Node.js, React.js, MySQL and Python. I graduated in IT Technician at Instituto Federal Farroupilha (Campus Uruguaiana) in Rio Grande do Sul, Brazil
 
 ### 💻 Tech Stack:
 ![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
